@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YoutubeWeb</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="sharesuggestion">\nDownload This Car Compare Application\n\n</string>
+    <string name="sug">Select One</string>
+    <string name="facebook">https://www.facebook.com/Google-Developers-967415219957038/</string>
+    <string name="gplus">https://plus.google.com/+GoogleDevelopers/</string>
+    <string name="loading">Loading...</string>
+</resources>

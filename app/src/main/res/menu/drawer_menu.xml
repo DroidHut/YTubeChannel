@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/fb"
+            android:title="Facebook Blog" />
+        <item
+            android:id="@+id/gplus"
+            android:icon="@drawable/gp"
+            android:title="Google Plus" />
+        <item
+            android:id="@+id/request_video"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Request a Video" />
+    </group>
+    
+    <item android:title="Others">
+  <menu>
+        <item
+            android:id="@+id/contact"
+            android:icon="@android:drawable/sym_contact_card"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/rate"
+            android:icon="@android:drawable/btn_star"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/share"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="Share" />
+   </menu>
+    </item>
+        
+</menu>
